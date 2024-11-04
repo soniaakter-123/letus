@@ -1,0 +1,43 @@
+.contact{
+    background-color: #FCEAE9;
+    height: 70vh;
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wrapper{
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    gap: 20px;
+}
+h1{
+    font-size: 50px;
+   
+}
+p{
+    font-size: 30px;
+}
+.wrapper button{
+    padding: 5px 5PX;
+    border: none;
+    width: 20vh;
+    height: 50px;
+    
+    background-color: #FF3986;
+    
+    border-radius: 7px 7px;
+    font-size: 15px;
+    font-weight: 15px;
+    color:#FFFFFF;
+    font-weight: bold;
+    
+}
+input{
+    border: none;
+    height: 40px;
+    font-size: 20px;
+    
+}
